@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Zafen
 
-<!--
-**Shuazafen/Shuazafen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Developer | 📚 Reader | ✍️ Writer | 🏋️‍♂️ Gym Enthusiast
 
-Here are some ideas to get you started:
+**Currently:**
+- 🔭 Building: Qscribe.
+- 📖 Reading: Iron Gold by Pierce Brown.
+- ✍️ Writing: Darrow as a character, among others.
+- 🏋️ Working on: 85kg lean mass.
+- 🧮 Solving: Math problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+My current tech stack is Django, Typescript and supabase for database
+
+### Quick Stats
+[Your stats]
+
+### Let's Chat About
+Books, math, fitness, code, or anything in between!
+
+📫 Reach me: Olomoshuaomozafen@gmail.com
