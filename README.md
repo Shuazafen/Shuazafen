@@ -12,8 +12,7 @@
 ### Tech Stack
 My current tech stack is Django, Typescript and supabase for database
 
-### Quick Stats
-[Your stats]
+
 
 ### Let's Chat About
 Books, math, fitness, code, or anything in between!
